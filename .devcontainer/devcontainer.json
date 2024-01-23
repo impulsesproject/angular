@@ -8,6 +8,7 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "eamodio.gitlens",
         "azuretools.vscode-docker",
 
         "xabikos.javascriptsnippets",
